@@ -30,19 +30,22 @@ In the training K-fold validation is used.
 ## Result:
 
 Confusion matrix of method one: 
-
+![Confusion matrix of method one](./images/CM_M1.png)
 
 Confusion matrix of method two detecting male or female: 
 
+![Confusion matrix of method two detecting male or female](./images/CM_M2_1.png)
 
 Confusion matrix of method two detecting Blue or orange of male dataset: 
 
+![Confusion matrix of method two detecting Blue or orange of male dataset](./images/CM_M2_2.png)
 
 Confusion matrix of method two detecting Blue or orange of female dataset: 
 
+![Confusion matrix of method two detecting Blue or orange of female dataset](./images/CM_M2_3.png)
 
 
-The time used for method one was 
+The time used for method one was ****
 
-The time used for method two was 
+The time used for method two was ****
 
